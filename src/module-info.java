@@ -1,0 +1,3 @@
+module javatest {
+	exports test;
+}
