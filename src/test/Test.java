@@ -26,8 +26,8 @@ class Test {
 	 String x = "ABC Factoring c/o Johns Trucking";
 	 String initials = null;
 	 
-	 boolean notEmpty = x!=null;
-	 System.out.println(notEmpty);
+//	 boolean notEmpty = x!=null;
+//	 System.out.println(notEmpty);
 	 
 	 String[] nameparts = x.split("c/o");
 		if (nameparts.length>1 && nameparts[1] != null) {
